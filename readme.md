@@ -59,3 +59,5 @@ git branch -d existing_branch_name
 git merge existing_branch_name
 
 ## Прекращение слияния при конфликте
+
+Чтобы прекратить слияние команда git --abort
