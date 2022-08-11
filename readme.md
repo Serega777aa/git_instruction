@@ -59,3 +59,7 @@ git branch -d existing_branch_name
 git merge existing_branch_name
 
 ## Прекращение слияния при конфликте
+
+Прервать слияние в случае конфликта можно параметром merge с флагом --abort.
+
+git merge --abort
