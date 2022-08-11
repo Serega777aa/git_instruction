@@ -54,4 +54,6 @@ git branch -d existing_branch_name
 
 ## Слияние двух веток
 
+Чтобы слить две ветки команда git merge name_branch
+
 ## Прекращение слияния при конфликте
