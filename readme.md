@@ -64,3 +64,7 @@ git merge existing_branch_name
 Прервать слияние в случае конфликта можно параметром merge с флагом --abort.
 
 git merge --abort
+
+## Добавление удалённого репозитория
+Добавить удалённый репозиторий можно параметром remote add, указав shortname и url требуемого репозитория.
+git remote add origin https://github.com/someurl..
